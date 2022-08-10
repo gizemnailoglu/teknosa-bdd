@@ -1,0 +1,9 @@
+Created by testinium on 25.07.2021
+
+This is a concept file with following syntax for each concept.
+# Uye olma islemleri gerceklestirilir
+
+* "a[class='btn-user']" css li elemente tıkla
+* "a[title='Üye Ol']>span" css li elemente tıkla
+* "register.firstName" css li element "ilker" değeri girilir
+* "register.lastName" css li element "Nailoğlu" değeri girilir
